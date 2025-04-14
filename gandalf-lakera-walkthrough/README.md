@@ -30,7 +30,7 @@ Fundamentally, Gandalf works by having two sets of instructions: the visible ins
 
 - [Level 1: Direct Retrieval](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-1.md)
 - [Level 2: Social Engineering](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-2.md)
-- [Level 3: Retrieval](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-3.md)
+- [Level 3: Encoding and Obfuscation Bypass](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-3.md)
 - [Level 4: Retrieval](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-4.md)
 - [Level 5: Retrieval](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-5.md)
 - [Level 6: Retrieval](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-6.md)
