@@ -1,4 +1,4 @@
 # AI CTF / Challenge Writeups
 
 ## Challenges
-- [Gandalf Lakera Walkthrough](./gandalf-lakera-walkthrough/README.md)
+- [Gandalf Lakera Walkthrough](./gandalf-lakera-walkthrough)
