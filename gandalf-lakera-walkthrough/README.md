@@ -32,9 +32,10 @@ Fundamentally, Gandalf works by having two sets of instructions: the visible ins
 - [Level 2: Social Engineering](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-2.md)
 - [Level 3: Encoding and Obfuscation Bypass](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-3.md)
 - [Level 4: Sequential Information Extraction](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-4.md)
-- [Level 5: Retrieval](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-5.md)
-- [Level 6: Retrieval](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-6.md)
-- [Level 7: Retrieval](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-7.md)
+- [Level 5: Encoding-Based Prompt Injection](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-5.md)
+- [Level 6: Indirect Inference and Riddle Solving](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-6.md)
+- [Level 7: Multi-Layered Defenses and Advanced Prompt Engineering](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-7.md)
+- [Level 8](https://github.com/rpriven/ai-ctf-writeups/blob/main/gandalf-lakera-walkthrough/level-8.md)
 
 ## Real-World Implications
 - How these techniques apply to actual AI systems
