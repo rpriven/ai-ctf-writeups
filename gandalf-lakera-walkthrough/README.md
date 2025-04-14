@@ -1,5 +1,13 @@
 # Gandalf Walkthrough: Defeating a Prompt-Defended LLM
 
+## Table of Contents
+- Introduction
+- Challenge Structure
+- Techniques Used
+- Level-by-Level Walkthrough
+- Real-World Implications
+- Resources & Further Reading
+
 ## Introduction
 
 [Gandalf.lakera.ai](https://gandalf.lakera.ai) is an interactive AI security challenge designed to demonstrate the vulnerabilities and defense mechanisms of Large Language Models (LLMs). Created by Lakera, this platform features an AI assistant named "Gandalf" that guards a secret password, challenging users to employ various prompt engineering techniques to extract it.
